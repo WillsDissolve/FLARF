@@ -2,12 +2,18 @@ body {
   background-color: lightblue;
 }
 
+.schibsted-grotesk-<uniquifier> {
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 h1 {
   color: white;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: "Schibsted Grotesk", sans-serif;
   font-size: 20px;
 }
