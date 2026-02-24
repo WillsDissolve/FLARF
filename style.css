@@ -2,19 +2,19 @@ body {
   background-color: black;
 }
 
-.helvetica-neue-<uniquifier> {
-  font-family: "Helvetica Neue", sans-serif;
+.schibsted-grotesk-<uniquifier> {
+  font-family: "Schibsted Grotesk", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
 h1 {
   color: orange;
-  font-family: "Helvetica Neue Bold", sans-serif;
+  font-family: "Schibsted Grotesk", sans-serif;
 }
 
 p {
 color: lightgray;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: "Schibsted Grotesk", sans-serif;
   font-size: 20px;
 }
