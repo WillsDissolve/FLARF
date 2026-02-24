@@ -10,10 +10,11 @@ body {
 }
 h1 {
   color: orange;
-  text-align: center;
+  text-align: left;
 }
 
 p {
+  color; white
   font-family: "Schibsted Grotesk", sans-serif;
   font-size: 20px;
 }
